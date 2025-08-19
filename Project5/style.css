@@ -1,0 +1,53 @@
+.lable1 {
+    font-family: Vazirmatn;
+    padding-right: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+header {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+.button1 {
+    background-color:#17C4E2;
+    border: unset;
+    cursor: pointer;
+    color: white;
+    margin-top: 20px;
+    font-family: Vazirmatn;
+    border-radius: 20px;
+    margin-right: 50vw;
+}
+.button2 {
+    background-color: #ACDEE7;
+    border: unset;
+    cursor: pointer;
+    color: white;
+    margin-top: 20px;
+    font-family: Vazirmatn;
+    border-radius: 20px;
+}
+.lable2 {
+    font-family: Vazirmatn;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20vw;
+}
+.union {
+    display: flex;
+    height: 20vh;
+    width: 20vw;
+    padding-right: 5%;
+}
+.box1 {
+    position: absolute;
+    color: darkolivegreen;
+}
+title {
+    font-family: Vazirmatn;
+    color: #17C4E2;
+}
+.info {
+    position: relative;
+}

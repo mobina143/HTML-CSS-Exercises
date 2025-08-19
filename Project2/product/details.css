@@ -1,0 +1,30 @@
+
+th,td{
+    border : 2px;
+    border-color: #000000;
+    border-style: double;
+    text-align: center;
+    }
+.h1{
+    color: red;
+    font-family: Vazirmatn;
+    }
+.punctuation{
+    color: black;
+}
+.highlight{
+    color: white;
+    background-color: rgb(28, 161, 161);
+}
+
+p,table,ul {
+    font-family: Vazirmatn;
+}
+.table1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.table2 {
+    background-color: beige;
+}
